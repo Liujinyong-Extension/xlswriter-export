@@ -1,0 +1,17 @@
+{
+    "name": "liujinyong\/xlswriter-export",
+    "description": "基于php-ext-xlswriter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "killbrid",
+            "email": "893296814@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liujinyong\\XlswriterExport\\": "src"
+        }
+    }
+}
